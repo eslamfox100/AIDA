@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,7 +62,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'cyber-blue': '#00d4ff',
+				'cyber-green': '#39ff14',
+				'cyber-purple': '#9d4edd',
+				'dark-bg': '#0a0a0f',
+				'dark-card': '#1a1a2e'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
@@ -84,11 +90,31 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				'float': {
+					'0%, 100%': { transform: 'translateY(0px)' },
+					'50%': { transform: 'translateY(-10px)' }
+				},
+				'pulse-glow': {
+					'0%, 100%': { boxShadow: '0 0 5px rgba(0, 212, 255, 0.5)' },
+					'50%': { boxShadow: '0 0 20px rgba(0, 212, 255, 0.8)' }
+				},
+				'click-animation': {
+					'0%': { transform: 'scale(1)', boxShadow: '0 0 0 0 rgba(57, 255, 20, 0.7)' },
+					'70%': { transform: 'scale(1.1)', boxShadow: '0 0 0 10px rgba(57, 255, 20, 0)' },
+					'100%': { transform: 'scale(1)', boxShadow: '0 0 0 0 rgba(57, 255, 20, 0)' }
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'float': 'float 3s ease-in-out infinite',
+				'pulse-glow': 'pulse-glow 2s ease-in-out infinite',
+				'click-animation': 'click-animation 0.6s ease-out'
+			},
+			backgroundImage: {
+				'cyber-gradient': 'linear-gradient(135deg, #00d4ff 0%, #39ff14 50%, #9d4edd 100%)',
+				'dark-gradient': 'linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%)'
 			}
 		}
 	},
